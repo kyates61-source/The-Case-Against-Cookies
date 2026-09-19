@@ -1,0 +1,29 @@
+ img {
+    display: block;
+    margin: auto;
+   width: 60%;
+}
+
+h2 {
+  color: #e41b1b;
+  font-size: 20px;
+  display: grid;
+  place-item: center;
+}
+
+p {
+  text-align: center;
+ }
+h1 {
+  text-align: center;
+ }
+h2 {
+  text-align: center;
+ }
+h3 {
+  text-align: center;
+ }
+
+body {
+  backround-color: #dcf4f4;
+}
